@@ -13,7 +13,7 @@ See docs on T2 CLI usage [on the t2-docs repo](https://github.com/tessel/t2-docs
 ## Contents
 
 * [Installation for development](#installation-for-development)
-* [Updating Tessel](#updating-tessel-2-on-board-osfirmware)
+* [Updating Tessel](#updating)
 * [Development milestones](#development-milestones)
 
 ## Installation for development
